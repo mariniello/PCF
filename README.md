@@ -13,6 +13,7 @@ Estudo pcf´s
 - [Best Pratices](https://learn.microsoft.com/pt-br/power-apps/developer/component-framework/code-components-best-practices)
 - [Event - addonoutputchange](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/clientapi/reference/controls/addonoutputchange)
 - [Limitations](https://learn.microsoft.com/pt-br/power-apps/developer/component-framework/limitations)
+- [.NetCore 6.0](https://dotnet.microsoft.com/pt-br/download/dotnet/6.0)
 
 ### Reference typscript 
 - [React Lib @types/xrm](https://www.npmjs.com/package/@types/xrm)
