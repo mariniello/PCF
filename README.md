@@ -92,4 +92,4 @@ pac pcf push -pp [PREFIXO PUBLICADOR EXISTENTE] -inc -env [URL DO AMBIENTE]
 ##### Comentários Pessoais de estudo
 ###### Início
 - Como requisito inicial é necessário intalar o .Net 6.0;
-- React Lib @types/xrm, basicamente usado para usar métodos globais do JS no dynamics. Não é nativo do react, é da comunidade;
+- React Lib @types/xrm, basicamente usado para usar métodos globais(WebApi, NavigationTo, etc) do JS no dynamics. Não é nativo do react, é da comunidade;
