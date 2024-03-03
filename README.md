@@ -87,3 +87,7 @@ pac pcf push -pp [PREFIXO PUBLICADOR EXISTENTE] -inc
 ```  
 pac pcf push -pp [PREFIXO PUBLICADOR EXISTENTE] -inc -env [URL DO AMBIENTE]
 ```
+
+
+##### Comentários Pessoais de estudo
+###### Início
