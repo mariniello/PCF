@@ -91,4 +91,4 @@ pac pcf push -pp [PREFIXO PUBLICADOR EXISTENTE] -inc -env [URL DO AMBIENTE]
 
 ##### Comentários Pessoais de estudo
 ###### Início
-####### Como requisito inicial é necessário intalar o .Net 6.0;
+Como requisito inicial é necessário intalar o .Net 6.0;
